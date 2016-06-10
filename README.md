@@ -3,7 +3,7 @@
 2. Open the TetrisGUI.java file within Eclipse and run the program from there.  
 
 **How to play the game:**  
-1. Click on the toolbar Game Start &m--> New Game to start a new game or Game Start -> Load Game to start a saved game.  
+1. Click on the toolbar Game Start > New Game to start a new game or Game Start -> Load Game to start a saved game.  
 2. Use the Left and Right Arrow Key to translate a falling tetris piece and the Up Arrow Key to rotate a falling tetris piece.  
 3. Click on the toolbar Options -> Pause/Unpause to pause and unpause the game.  
 4. Click on the toolbar Options -> Undo to undo tetris piece placements so you can have another chance at placing them where you want to. Note that you can only do this 5 times in a row and when paused.  
